@@ -75,3 +75,5 @@ If you love dashboards, analytics, or beautiful UI design in BI tools — let's 
 ---
 
 If you found this project inspiring, feel free to ⭐ the repo!
+<img width="900" height="505" alt="image" src="https://github.com/user-attachments/assets/e1ca7d86-909b-4601-bf50-57ac3b11d8e0" />
+
